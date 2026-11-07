@@ -1,0 +1,1 @@
+record your voice and save it with adding time when will you need it and let the app inform with your time warning and do your task on time , it can be doing excercise, it can budgets , it can be taking medicines ,it can be anything 
