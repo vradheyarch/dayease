@@ -1,0 +1,7 @@
+{
+  "name": "Remix DayEase - Everyday Life \u0026 Wellness Companion",
+  "description": "An all-in-one gentle life organizer for daily tasks with early warnings, meal planning \u0026 pantry tracking, expense budgets, household chores, wellness reminders, focus timer, audio voice notes with transcripts, and soothing ambient nature themes.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
